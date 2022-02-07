@@ -1,0 +1,5 @@
+<configuration name="global_vars.conf" description="Set globals vars">
+  <variables>
+    <variable name="new_global" value="123"/>
+  </variables>
+</configuration>
